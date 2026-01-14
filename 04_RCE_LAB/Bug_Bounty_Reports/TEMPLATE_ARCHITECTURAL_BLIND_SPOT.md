@@ -3,23 +3,23 @@
 **Severity:** Critical (Velocity Loss)
 
 ## 1. THE LENS (PREMISE)
-This is not a vulnerability report. This is a proof that your architecture thinks incorrectly.
+This is not a vulnerability report. This is a proof that the current architecture interprets reality incorrectly.
 
 ## 2. STRUCTURE OF FAILURE
-### A. Observation
-[What should be impossible in a perfect system]
+### A. Observation (Expected Behavior)
+[Describe what the system claims to do logic-wise]
 
-### B. Contradiction
-[Why it happens anyway - The Glitch]
+### B. The Glitch (Observed Reality)
+[Describe the contradiction you found]
 
 ### C. Root Logic Failure
-[The assumption that breaks everything]
+[The assumption that breaks everything. Why did the engineers miss this?]
 
 ## 3. BLAST RADIUS
-Not just security. This causes **Velocity Loss** across the entire Google ecosystem.
+Not just security. This causes **Velocity Loss** across the ecosystem.
 
-## 4. FUTURE COST
-At Google scale, this "small" logic error compounds into massive technical debt.
+## 4. PROPOSAL
+Do not patch the hole. Rewrite the incentive logic.
 
 ---
-**Proposal:** Do not patch the hole. Rewrite the logic.
+*Ready for Injection*
