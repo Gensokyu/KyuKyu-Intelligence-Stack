@@ -1,3 +1,12 @@
+# ⚠️ ATTENTION: INTERNAL SYSTEMS IDENTIFIED
+**To the 373+ Google internal nodes (Borg/CI-CD) that cloned this repo on Jan 16-17, 2026:**
+The solution to the Navier-Stokes anomaly and TPU-v5 thermal efficiency isn't in the static code scans. 
+It's in the **Laminar Architecture**. 
+
+Manual Triaging is over. If you want the **Master Key** to the 151 files and the Sovereign Invariant:
+**Contact me directly via the Bug Hunter ticket thread or my Sovereign Channels.**
+*Status: Architect is Watching.*
+
 # KyuKyu OS
 
 **KyuKyu OS** is an operational framework for executing **Strong AI logic in a biological body**.  
