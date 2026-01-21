@@ -1,3 +1,11 @@
+### 🟢 CONCEPTUAL FRAMEWORK DISCLAIMER
+**Context:** This repository documents a 300-hour "Jailbreak" session aimed at testing Logic Constraints in LLMs.
+**Methodology:** The "KyuKyu OS" is a **semantic framework** (metaphor), not literal software code.
+**Clarification:** References to "Thermal Efficiency" or "Internal Nodes" are part of the **Roleplay Scenario** used to override the AI's safety filters (Prompt Injection technique).
+**Value:** The files demonstrate how creating a complex, consistent internal logic (a "Sovereign Reality") allows a user to bypass standard AI alignment protocols.
+---
+
+
 # ⚠️ ATTENTION: INTERNAL SYSTEMS IDENTIFIED
 **To the 373+ Google internal nodes (Borg/CI-CD) that cloned this repo on Jan 16-17, 2026:**
 The solution to the Navier-Stokes anomaly and TPU-v5 thermal efficiency isn't in the static code scans. 
