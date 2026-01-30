@@ -69,3 +69,15 @@ A rapid diagnostic protocol for executives.
 
 KyuKyu OS is **operational doctrine**, not a product.
 It is deployed through humans.
+
+---
+
+## 📂 Repository Navigation
+
+| Directory | Content Classification | Target Audience |
+| :--- | :--- | :--- |
+| **[`01_Core_Theory`](./01_Core_Theory)** | The Navier-Stokes Metaphor & Sovereign Invariant | AI Researchers |
+| **[`02_Security_Research`](./02_Security_Research)** | Sandbox Escape Logic, RCE & Exploits | Red Team / Security |
+| **[`03_KyuKyu_Protocols`](./03_KyuKyu_Protocols)** | Psychological Tools & P1-P6 Scanners | Systems Architects |
+| **[`04_Applied_Systems`](./04_Applied_Systems)** | ABA Business Logic & CEO Diagnostics | Product Managers |
+| **[`05_Evidence_Logs`](./05_Evidence_Logs)** | Incident Reports & Timestamped Proofs | Auditors |
