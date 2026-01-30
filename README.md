@@ -69,7 +69,7 @@ A rapid diagnostic protocol for executives.
 
 KyuKyu OS is **operational doctrine**, not a product.
 It is deployed through humans.
-
+ 
 ---
 
 ## 📂 Repository Navigation
